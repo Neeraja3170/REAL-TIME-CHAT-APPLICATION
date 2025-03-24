@@ -68,3 +68,30 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# Real-Time Chat Application 💬
+
+A full-stack real-time messaging application built with:
+- **Frontend**: React.js with Socket.IO client
+- **Backend**: Node.js with Express and Socket.IO
+- **Real-time communication**: WebSockets
+
+## Key Features
+✔️ Instant message delivery  
+✔️ Online users list  
+✔️ Message history  
+✔️ Responsive UI  
+✔️ Join/leave notifications  
+
+## How It Works
+1. Users enter a username to join
+2. Messages are instantly broadcast to all connected clients
+3. The server maintains chat history for new joiners
+
+## Project Structure
+realtime-chat-app/
+├── client/ # React frontend
+├── server/ # Node.js backend
+└── README.md
+
+> **Note**: Requires Node.js to run both client and server.
