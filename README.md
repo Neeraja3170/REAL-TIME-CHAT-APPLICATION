@@ -1,3 +1,15 @@
+COMPANY:CODTECH IT SOLUTIONS
+
+NAME:Rachamalla Neeraja
+
+INTERN ID: CT06WC99
+
+DOMAIN:Frontend Web Development
+
+DURATION:6 WEEKS
+
+MENTOR:NEELA SANTOSH
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
