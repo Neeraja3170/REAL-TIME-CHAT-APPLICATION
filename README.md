@@ -95,3 +95,8 @@ realtime-chat-app/
 └── README.md
 
 > **Note**: Requires Node.js to run both client and server.
+output:
+![Image](https://github.com/user-attachments/assets/03775ee5-993b-4823-9d79-6f437d2037db)
+![Image](https://github.com/user-attachments/assets/5da58deb-7847-4204-bc50-c133ece40a15)
+
+![Image](https://github.com/user-attachments/assets/26c36a93-cc56-499f-8f0e-4f6e992245b9)
